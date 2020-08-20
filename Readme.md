@@ -1,4 +1,4 @@
-# gas-insert-gcal-schedules
+# gas-sample-ts
 ## 目的
 - GASのサンドバック。
 
